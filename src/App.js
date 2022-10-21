@@ -22,14 +22,14 @@ function App() {
             <Container>
               <Navbar.Brand>
                 <Link to={'/create-student'} className="nav-link">
-                  React MERN Stack App
+                  Student Resgistration Form
                 </Link>
               </Navbar.Brand>
 
               <Nav className="justify-content-end">
                 <Nav>
                   <Link to={'/create-student'} className="nav-link">
-                    Create Student
+                    Create Student 
                   </Link>
                 </Nav>
 
